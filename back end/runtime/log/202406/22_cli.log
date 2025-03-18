@@ -1,0 +1,1 @@
+[ 2024-06-22T08:00:01+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null[/www/wwwroot/www.1.com/thinkphp/library/think/db/Connection.php:453]

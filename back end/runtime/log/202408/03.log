@@ -1,0 +1,1435 @@
+---------------------------------------------------------------
+[ 2024-08-03T00:12:48+08:00 ] 103.148.104.110 POST 43.135.71.18:41927/api/login/register
+[ error ] [8]未定义数组索引: agent
+---------------------------------------------------------------
+[ 2024-08-03T00:12:59+08:00 ] 103.148.104.110 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T00:13:16+08:00 ] 103.148.104.110 POST 43.135.71.18:41927/api/login/register
+[ error ] [8]未定义数组索引: agent
+---------------------------------------------------------------
+[ 2024-08-03T00:13:24+08:00 ] 103.148.104.110 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T00:37:05+08:00 ] 49.7.6.182 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T00:38:34+08:00 ] 223.144.195.79 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T02:09:53+08:00 ] 49.7.3.74 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T02:11:54+08:00 ] 49.7.3.121 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T02:11:57+08:00 ] 49.7.3.95 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T03:14:20+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T04:10:11+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T04:26:54+08:00 ] 128.14.229.120 GET 43.135.71.18/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [2]is_file(): open_basedir restriction in effect. File(/www/wwwroot/www.1.com/thinkphp/lang/../../../../../../../../usr/local/lib/php/pearcmd.php) is not within the allowed path(s): (/www/wwwroot/www.1.com/:/tmp/)
+[ error ] [2]is_file(): open_basedir restriction in effect. File(/www/wwwroot/www.1.com/public/../application/lang/../../../../../../../../usr/local/lib/php/pearcmd.php) is not within the allowed path(s): (/www/wwwroot/www.1.com/:/tmp/)
+[ error ] [2]is_file(): open_basedir restriction in effect. File(/www/wwwroot/www.1.com/public/../application/index/lang/../../../../../../../../usr/local/lib/php/pearcmd.php) is not within the allowed path(s): (/www/wwwroot/www.1.com/:/tmp/)
+---------------------------------------------------------------
+[ 2024-08-03T09:27:36+08:00 ] 125.122.32.247 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447792
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T09:27:57+08:00 ] 125.122.32.247 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447793
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T09:33:03+08:00 ] 125.122.32.247 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447794
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T10:00:12+08:00 ] 106.8.130.209 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T10:05:28+08:00 ] 111.65.38.42 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T10:14:15+08:00 ] 125.122.32.247 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447795
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T10:17:11+08:00 ] 125.122.32.247 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447796
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T10:17:36+08:00 ] 125.122.32.247 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1041?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T10:23:58+08:00 ] 125.122.32.249 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722652036629
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T10:25:03+08:00 ] 14.116.141.235 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T10:26:51+08:00 ] 14.116.141.60 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T10:27:38+08:00 ] 223.144.208.41 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T10:40:30+08:00 ] 125.122.32.247 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447797
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T10:41:48+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T11:06:31+08:00 ] 115.213.22.255 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:06:39+08:00 ] 14.116.141.13 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:07:07+08:00 ] 122.192.12.149 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:07:21+08:00 ] 122.192.12.149 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:07:48+08:00 ] 115.227.41.208 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:08:04+08:00 ] 106.8.138.222 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:08:10+08:00 ] 49.7.4.46 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:08:12+08:00 ] 49.7.4.170 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:08:17+08:00 ] 123.182.49.187 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:08:32+08:00 ] 49.7.4.184 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T11:08:39+08:00 ] 49.7.4.157 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:08:52+08:00 ] 123.182.51.54 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:09:31+08:00 ] 49.7.3.215 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:13:44+08:00 ] 49.7.3.74 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T11:14:17+08:00 ] 223.104.205.185 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T11:18:11+08:00 ] 39.190.108.142 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:19:17+08:00 ] 49.7.3.94 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T11:21:17+08:00 ] 49.7.4.179 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T11:38:57+08:00 ] 65.181.17.157 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447798
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T11:48:38+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T12:21:16+08:00 ] 49.7.3.121 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T12:48:03+08:00 ] 14.26.226.67 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T13:02:54+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1044?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T13:02:56+08:00 ] 65.181.16.154 POST 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1044?dialog=1
+[ error ] [8]未定义数组下标: 0
+---------------------------------------------------------------
+[ 2024-08-03T13:02:59+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1044?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T13:03:03+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447799
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T13:10:04+08:00 ] 60.15.136.16 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:14:08+08:00 ] 223.144.208.41 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:16:37+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:17:13+08:00 ] 106.8.130.209 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:17:14+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:17:24+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:17:28+08:00 ] 123.182.51.90 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:17:37+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:17:40+08:00 ] 123.182.48.45 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:18:20+08:00 ] 14.116.141.75 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:18:23+08:00 ] 115.227.41.208 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:18:24+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:18:32+08:00 ] 111.65.38.42 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:18:44+08:00 ] 111.65.38.42 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:18:49+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:18:53+08:00 ] 111.65.38.42 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:18:56+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:19:11+08:00 ] 117.162.178.88 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:19:44+08:00 ] 115.227.40.71 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:19:49+08:00 ] 123.182.49.208 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T13:28:00+08:00 ] 106.36.11.233 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:28:10+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:50:06+08:00 ] 111.65.48.60 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T13:50:42+08:00 ] 49.7.3.101 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T14:15:07+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447800
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T14:18:09+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1048?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T14:18:24+08:00 ] 65.181.16.154 POST 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1048?dialog=1
+[ error ] [8]未定义数组下标: 0
+---------------------------------------------------------------
+[ 2024-08-03T14:18:24+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447801
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T14:29:38+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1046?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T14:44:03+08:00 ] 65.181.16.24 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722667441089
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T14:53:08+08:00 ] 219.129.239.6 POST 43.135.71.18:41927/api/login/register
+[ error ] [8]未定义数组索引: agent
+---------------------------------------------------------------
+[ 2024-08-03T14:53:21+08:00 ] 219.129.239.6 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T15:59:46+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447802
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T16:03:15+08:00 ] 49.7.3.94 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:05:17+08:00 ] 219.134.170.26 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:16:27+08:00 ] 37.111.52.154 POST 43.135.71.18:41927/api/login/register
+[ error ] [8]未定义数组索引: agent
+---------------------------------------------------------------
+[ 2024-08-03T16:17:57+08:00 ] 37.111.52.154 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:18:06+08:00 ] 115.213.22.255 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:22:00+08:00 ] 123.182.49.187 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:22:39+08:00 ] 123.182.48.45 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:22:42+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:22:56+08:00 ] 106.8.130.209 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:02+08:00 ] 120.69.83.215 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:02+08:00 ] 223.104.215.203 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:03+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:23:03+08:00 ] 123.182.49.88 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:06+08:00 ] 123.183.235.220 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:08+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:09+08:00 ] 49.7.4.49 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:11+08:00 ] 14.116.140.115 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:12+08:00 ] 49.7.3.78 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:14+08:00 ] 111.65.38.42 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:16+08:00 ] 106.8.130.209 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:16+08:00 ] 183.198.5.62 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:17+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:23:18+08:00 ] 39.144.108.158 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:20+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:23:24+08:00 ] 49.7.4.162 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:26+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:27+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:37+08:00 ] 14.116.141.240 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:41+08:00 ] 49.7.4.172 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:23:42+08:00 ] 111.65.38.42 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:23:44+08:00 ] 111.65.38.42 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:23:53+08:00 ] 111.65.38.42 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:23:54+08:00 ] 14.116.141.45 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:23:56+08:00 ] 49.7.4.170 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:24:05+08:00 ] 14.116.141.175 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:24:08+08:00 ] 49.7.3.105 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:24:15+08:00 ] 113.84.9.216 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:24:42+08:00 ] 113.84.9.216 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:24:48+08:00 ] 123.182.50.93 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:24:50+08:00 ] 113.84.9.216 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:25:23+08:00 ] 49.7.3.235 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T16:32:58+08:00 ] 115.227.40.97 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T16:34:00+08:00 ] 49.7.4.176 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:34:07+08:00 ] 123.182.48.9 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:35:39+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:36:44+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447803
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T16:36:49+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:37:38+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447804
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T16:38:50+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447805
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T16:42:17+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447806
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T16:42:20+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1051?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T16:42:23+08:00 ] 65.181.16.154 POST 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1051?dialog=1
+[ error ] [8]未定义数组下标: 0
+---------------------------------------------------------------
+[ 2024-08-03T16:42:27+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1051?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T16:42:33+08:00 ] 223.104.205.185 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:42:36+08:00 ] 65.181.16.154 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447807
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T16:44:54+08:00 ] 14.116.141.22 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:46:10+08:00 ] 14.116.141.68 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T16:47:45+08:00 ] 14.116.141.70 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T16:47:52+08:00 ] 14.116.141.240 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T16:50:39+08:00 ] 223.104.205.185 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T17:13:18+08:00 ] 14.116.141.184 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T17:14:39+08:00 ] 14.116.141.235 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T17:27:20+08:00 ] 115.227.42.230 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T18:25:51+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T18:35:05+08:00 ] 223.144.195.79 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:10:02+08:00 ] 106.36.11.233 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:22:41+08:00 ] 106.36.11.233 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:29:08+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447808
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T19:30:22+08:00 ] 219.129.239.6 POST 43.135.71.18:41927/api/login/register
+[ error ] [8]未定义数组索引: agent
+---------------------------------------------------------------
+[ 2024-08-03T19:30:33+08:00 ] 219.129.239.6 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:33:33+08:00 ] 123.183.235.220 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:38:02+08:00 ] 113.84.9.216 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:39:11+08:00 ] 223.147.237.106 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:46:09+08:00 ] 122.192.12.145 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:46:22+08:00 ] 115.213.22.255 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:46:27+08:00 ] 122.192.12.145 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:47:12+08:00 ] 123.183.235.220 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:47:32+08:00 ] 111.65.38.16 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:48:00+08:00 ] 106.8.130.209 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:48:03+08:00 ] 115.227.42.24 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:06+08:00 ] 123.182.50.56 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:09+08:00 ] 14.116.141.27 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:10+08:00 ] 123.182.48.189 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:10+08:00 ] 183.198.5.62 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:11+08:00 ] 1.13.172.124 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:12+08:00 ] 123.182.48.9 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:12+08:00 ] 183.131.239.242 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:14+08:00 ] 115.227.41.108 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:18+08:00 ] 120.225.34.235 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:19+08:00 ] 111.65.38.16 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:19+08:00 ] 49.7.6.250 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:23+08:00 ] 223.147.237.106 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:29+08:00 ] 14.116.140.102 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:31+08:00 ] 111.65.38.16 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:48:32+08:00 ] 223.147.237.106 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:48:39+08:00 ] 111.65.38.16 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:48:40+08:00 ] 223.147.237.106 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:49:03+08:00 ] 115.227.42.230 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:49:06+08:00 ] 113.84.9.216 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:49:12+08:00 ] 49.7.3.74 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:49:35+08:00 ] 113.84.9.216 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T19:49:46+08:00 ] 113.84.9.216 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:50:56+08:00 ] 39.144.168.229 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T19:54:25+08:00 ] 37.111.52.154 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722667441090
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T19:54:47+08:00 ] 125.122.12.75 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447809
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T20:01:41+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1057?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T20:01:42+08:00 ] 65.181.16.24 POST 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1057?dialog=1
+[ error ] [8]未定义数组下标: 0
+---------------------------------------------------------------
+[ 2024-08-03T20:01:46+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1057?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T20:01:51+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447810
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T20:02:57+08:00 ] 223.147.237.106 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T20:07:28+08:00 ] 60.222.88.33 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T20:13:16+08:00 ] 117.162.178.88 POST 43.135.71.18:41927/api/login/register
+[ error ] [8]未定义数组索引: agent
+---------------------------------------------------------------
+[ 2024-08-03T20:16:12+08:00 ] 117.162.178.88 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T20:24:00+08:00 ] 106.8.130.209 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T20:24:44+08:00 ] 123.182.48.45 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T20:27:45+08:00 ] 106.8.130.209 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T20:28:02+08:00 ] 106.8.130.209 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T20:40:43+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447811
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:01:54+08:00 ] 14.150.193.23 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:11:33+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447812
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:12:16+08:00 ] 37.111.52.154 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722667441091
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:12:25+08:00 ] 37.111.52.154 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=10&limit=10&filter=%7B%7D&op=%7B%7D&_=1722667441092
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:12:28+08:00 ] 37.111.52.154 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=20&limit=10&filter=%7B%7D&op=%7B%7D&_=1722667441093
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:12:31+08:00 ] 37.111.52.154 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722667441094
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:12:44+08:00 ] 37.111.52.154 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%22user_id%22%3A%22%E6%9D%8E%E6%95%8F%22%7D&op=%7B%22user_id%22%3A%22LIKE%22%7D&_=1722667441095
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:13:42+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1060?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T21:13:52+08:00 ] 65.181.16.24 POST 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1060?dialog=1
+[ error ] [8]未定义数组下标: 0
+---------------------------------------------------------------
+[ 2024-08-03T21:13:52+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447813
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:21:14+08:00 ] 111.65.38.16 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:22:17+08:00 ] 115.227.43.25 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:24:33+08:00 ] 115.227.41.127 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:27:08+08:00 ] 14.150.193.23 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:27:10+08:00 ] 115.213.22.255 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:27:12+08:00 ] 123.182.49.70 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:27:12+08:00 ] 122.192.12.145 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:27:18+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447814
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:27:26+08:00 ] 122.192.12.145 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:27:31+08:00 ] 123.183.235.220 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:27:49+08:00 ] 106.8.130.209 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:01+08:00 ] 115.227.42.24 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:04+08:00 ] 106.8.138.207 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:07+08:00 ] 49.7.4.17 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:08+08:00 ] 183.198.5.62 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:11+08:00 ] 49.7.3.95 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:16+08:00 ] 14.116.141.102 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:24+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:32+08:00 ] 111.65.48.60 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:28:35+08:00 ] 14.116.141.130 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:28:47+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:28:47+08:00 ] 111.65.48.60 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:28:55+08:00 ] 111.65.48.60 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:29:01+08:00 ] 14.150.193.23 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:29:04+08:00 ] 14.116.141.130 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:29:04+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:29:08+08:00 ] 1.13.172.124 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:29:21+08:00 ] 120.239.163.162 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:29:25+08:00 ] 14.150.193.23 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:29:34+08:00 ] 120.239.163.162 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:29:36+08:00 ] 14.150.193.23 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:30:43+08:00 ] 115.227.42.242 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:32:16+08:00 ] 14.116.141.116 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:32:47+08:00 ] 14.116.140.135 POST 43.135.71.18:41927/api/goods/microtrade
+[ error ] [8]未定义数组索引: real
+---------------------------------------------------------------
+[ 2024-08-03T21:37:51+08:00 ] 223.104.235.208 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:38:00+08:00 ] 123.182.50.56 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:38:51+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1722648447815
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+[ error ] [8]未定义数组索引: user_remark
+---------------------------------------------------------------
+[ 2024-08-03T21:44:15+08:00 ] 49.7.4.129 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:47:40+08:00 ] 49.7.4.160 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2024-08-03T21:53:43+08:00 ] 14.116.141.235 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T21:54:41+08:00 ] 65.181.16.24 GET 43.135.71.18/akkq1d1003m1004i1005n.php/downmark/check/ids/1046?dialog=1
+[ error ] [8]未定义数组索引: usdt_url
+---------------------------------------------------------------
+[ 2024-08-03T22:14:59+08:00 ] 111.65.48.60 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T22:51:04+08:00 ] 14.150.193.23 POST 43.135.71.18:41927/api/login/login
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time
+---------------------------------------------------------------
+[ 2024-08-03T23:58:51+08:00 ] 183.131.239.206 GET 43.135.71.18:41927/api/user/mark
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered
+[ error ] [8]A non well formed numeric value encountered

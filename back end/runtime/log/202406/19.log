@@ -1,0 +1,1810 @@
+---------------------------------------------------------------
+[ 2024-06-19T12:18:56+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.056017s] [吞吐率：17.85req/s] [内存消耗：3,550.83kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T12:19:11+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.042952s] [吞吐率：23.28req/s] [内存消耗：3,574.45kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T12:55:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718679304575
+[运行时间：0.108910s] [吞吐率：9.18req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:55:57+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718679304576
+[运行时间：0.044957s] [吞吐率：22.24req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:56:07+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718679304577
+[运行时间：0.053981s] [吞吐率：18.53req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:56:17+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718679304578
+[运行时间：0.046312s] [吞吐率：21.59req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:56:27+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718679304579
+[运行时间：0.043095s] [吞吐率：23.20req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:56:37+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718679304580
+[运行时间：0.047784s] [吞吐率：20.93req/s] [内存消耗：4,779.78kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:56:47+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718679304581
+[运行时间：0.050274s] [吞吐率：19.89req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:56:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773008714
+[运行时间：0.045301s] [吞吐率：22.07req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:57:04+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773008715
+[运行时间：0.066594s] [吞吐率：15.02req/s] [内存消耗：4,779.73kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:57:14+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773008716
+[运行时间：0.043599s] [吞吐率：22.94req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:57:24+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773008717
+[运行时间：0.042934s] [吞吐率：23.29req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:57:34+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773008718
+[运行时间：0.042300s] [吞吐率：23.64req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:57:44+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773008719
+[运行时间：0.042844s] [吞吐率：23.34req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:57:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773008720
+[运行时间：0.043804s] [吞吐率：22.83req/s] [内存消耗：4,779.82kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:58:04+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080154
+[运行时间：0.050102s] [吞吐率：19.96req/s] [内存消耗：4,779.82kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:58:12+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.030258s] [吞吐率：33.05req/s] [内存消耗：3,547.76kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T12:58:14+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080155
+[运行时间：0.043165s] [吞吐率：23.17req/s] [内存消耗：4,779.82kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:58:24+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080156
+[运行时间：0.058312s] [吞吐率：17.15req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:58:34+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080157
+[运行时间：0.043337s] [吞吐率：23.08req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:58:44+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080158
+[运行时间：0.042864s] [吞吐率：23.33req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:58:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080159
+[运行时间：0.043985s] [吞吐率：22.73req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:59:04+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080160
+[运行时间：0.065307s] [吞吐率：15.31req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:59:15+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080161
+[运行时间：0.052172s] [吞吐率：19.17req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:59:25+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080162
+[运行时间：0.043774s] [吞吐率：22.84req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:59:35+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080163
+[运行时间：0.043808s] [吞吐率：22.83req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:59:45+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080164
+[运行时间：0.050161s] [吞吐率：19.94req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T12:59:55+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080165
+[运行时间：0.042816s] [吞吐率：23.36req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:00:05+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080166
+[运行时间：0.059850s] [吞吐率：16.71req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:00:15+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080167
+[运行时间：0.067298s] [吞吐率：14.86req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:00:37+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080168
+[运行时间：0.064131s] [吞吐率：15.59req/s] [内存消耗：4,779.79kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:00:45+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080169
+[运行时间：0.091123s] [吞吐率：10.97req/s] [内存消耗：4,779.82kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:00:55+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080170
+[运行时间：0.045947s] [吞吐率：21.76req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:01:05+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080171
+[运行时间：0.042706s] [吞吐率：23.42req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:01:15+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080172
+[运行时间：0.084174s] [吞吐率：11.88req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:01:25+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080173
+[运行时间：0.042413s] [吞吐率：23.58req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:01:35+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080174
+[运行时间：0.042397s] [吞吐率：23.59req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:02:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080175
+[运行时间：0.087993s] [吞吐率：11.36req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:03:17+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080176
+[运行时间：0.071683s] [吞吐率：13.95req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:04:15+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080177
+[运行时间：0.086331s] [吞吐率：11.58req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:04:25+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080178
+[运行时间：0.043969s] [吞吐率：22.74req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:04:35+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080179
+[运行时间：0.050031s] [吞吐率：19.99req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:04:45+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080180
+[运行时间：0.050899s] [吞吐率：19.65req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:04:55+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080181
+[运行时间：0.043012s] [吞吐率：23.25req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:05:05+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080182
+[运行时间：0.045389s] [吞吐率：22.03req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:05:15+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080183
+[运行时间：0.061822s] [吞吐率：16.18req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:05:31+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.030543s] [吞吐率：32.74req/s] [内存消耗：3,552.41kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:06:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080184
+[运行时间：0.081001s] [吞吐率：12.35req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:07:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080185
+[运行时间：0.077866s] [吞吐率：12.84req/s] [内存消耗：4,779.79kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:08:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080186
+[运行时间：0.121076s] [吞吐率：8.26req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:09:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080187
+[运行时间：0.079960s] [吞吐率：12.51req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:09:37+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.030009s] [吞吐率：33.32req/s] [内存消耗：3,548.41kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:10:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080188
+[运行时间：0.074398s] [吞吐率：13.44req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:10:29+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/register
+[运行时间：0.029499s] [吞吐率：33.90req/s] [内存消耗：3,547.77kb] [文件加载：127]
+[ error ] [8]未定义数组索引: agent[/www/wwwroot/www.1.com/application/api/controller/Login.php:162]
+---------------------------------------------------------------
+[ 2024-06-19T13:10:40+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/register
+[运行时间：0.034377s] [吞吐率：29.09req/s] [内存消耗：3,549.98kb] [文件加载：127]
+[ error ] [8]未定义数组索引: agent[/www/wwwroot/www.1.com/application/api/controller/Login.php:162]
+---------------------------------------------------------------
+[ 2024-06-19T13:10:57+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.031184s] [吞吐率：32.07req/s] [内存消耗：3,546.90kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:11:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080189
+[运行时间：0.086457s] [吞吐率：11.57req/s] [内存消耗：4,779.77kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:11:54+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.041002s] [吞吐率：24.39req/s] [内存消耗：3,571.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:12:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080190
+[运行时间：0.042456s] [吞吐率：23.55req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:12:22+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/register
+[运行时间：0.029615s] [吞吐率：33.77req/s] [内存消耗：3,549.90kb] [文件加载：127]
+[ error ] [8]未定义数组索引: agent[/www/wwwroot/www.1.com/application/api/controller/Login.php:162]
+---------------------------------------------------------------
+[ 2024-06-19T13:12:33+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.038248s] [吞吐率：26.15req/s] [内存消耗：3,549.04kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:13:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080191
+[运行时间：0.086059s] [吞吐率：11.62req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:14:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080192
+[运行时间：0.120789s] [吞吐率：8.28req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:15:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080193
+[运行时间：0.043372s] [吞吐率：23.06req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:15:41+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080194
+[运行时间：0.042642s] [吞吐率：23.45req/s] [内存消耗：4,779.80kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:15:42+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080195
+[运行时间：0.047744s] [吞吐率：20.95req/s] [内存消耗：4,779.80kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:15:44+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080196
+[运行时间：0.054327s] [吞吐率：18.41req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:15:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080197
+[运行时间：0.048898s] [吞吐率：20.45req/s] [内存消耗：4,779.80kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:16:04+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080198
+[运行时间：0.048485s] [吞吐率：20.62req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:16:14+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080199
+[运行时间：0.042347s] [吞吐率：23.61req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:16:24+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080200
+[运行时间：0.042703s] [吞吐率：23.42req/s] [内存消耗：4,779.78kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:16:34+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080201
+[运行时间：0.055169s] [吞吐率：18.13req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:16:44+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080202
+[运行时间：0.042820s] [吞吐率：23.35req/s] [内存消耗：4,779.74kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:16:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080203
+[运行时间：0.042892s] [吞吐率：23.31req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:17:05+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080204
+[运行时间：0.042902s] [吞吐率：23.31req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:17:15+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080205
+[运行时间：0.061543s] [吞吐率：16.25req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:17:25+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080206
+[运行时间：0.043528s] [吞吐率：22.97req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:17:35+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080207
+[运行时间：0.042472s] [吞吐率：23.54req/s] [内存消耗：4,779.75kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:17:37+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.043789s] [吞吐率：22.84req/s] [内存消耗：3,573.43kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:17:45+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080208
+[运行时间：0.055254s] [吞吐率：18.10req/s] [内存消耗：4,780.01kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:17:55+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080209
+[运行时间：0.042331s] [吞吐率：23.62req/s] [内存消耗：4,779.96kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:18:15+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080210
+[运行时间：0.088970s] [吞吐率：11.24req/s] [内存消耗：4,779.95kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:18:35+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080211
+[运行时间：0.085429s] [吞吐率：11.71req/s] [内存消耗：4,779.95kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:18:44+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080212
+[运行时间：0.042586s] [吞吐率：23.48req/s] [内存消耗：4,779.96kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:18:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080213
+[运行时间：0.042360s] [吞吐率：23.61req/s] [内存消耗：4,779.96kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:19:02+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.042535s] [吞吐率：23.51req/s] [内存消耗：3,572.45kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:19:04+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080214
+[运行时间：0.101431s] [吞吐率：9.86req/s] [内存消耗：4,780.48kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:19:14+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080215
+[运行时间：0.043047s] [吞吐率：23.23req/s] [内存消耗：4,780.48kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:19:25+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080216
+[运行时间：0.054133s] [吞吐率：18.47req/s] [内存消耗：4,780.49kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:19:35+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080217
+[运行时间：0.043058s] [吞吐率：23.22req/s] [内存消耗：4,780.49kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:19:45+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080218
+[运行时间：0.056426s] [吞吐率：17.72req/s] [内存消耗：4,780.48kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:19:55+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080219
+[运行时间：0.042980s] [吞吐率：23.27req/s] [内存消耗：4,780.48kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:20:05+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080220
+[运行时间：0.043530s] [吞吐率：22.97req/s] [内存消耗：4,780.50kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:20:15+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080221
+[运行时间：0.073729s] [吞吐率：13.56req/s] [内存消耗：4,780.48kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:21:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080222
+[运行时间：0.094585s] [吞吐率：10.57req/s] [内存消耗：4,780.48kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:21:49+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.131032s] [吞吐率：7.63req/s] [内存消耗：3,571.75kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:21:55+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040454s] [吞吐率：24.72req/s] [内存消耗：3,571.75kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:22:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080223
+[运行时间：0.087193s] [吞吐率：11.47req/s] [内存消耗：4,780.67kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:17+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080224
+[运行时间：0.088772s] [吞吐率：11.26req/s] [内存消耗：4,780.65kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:35+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080225
+[运行时间：0.079566s] [吞吐率：12.57req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:39+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774617320
+[运行时间：0.044640s] [吞吐率：22.40req/s] [内存消耗：4,752.77kb] [文件加载：146]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: account[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:56]
+[ error ] [8]未定义数组索引: user_name[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:57]
+[ error ] [8]未定义数组索引: bank_name[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:58]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:44+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080226
+[运行时间：0.048894s] [吞吐率：20.45req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:49+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/176?dialog=1
+[运行时间：0.034221s] [吞吐率：29.22req/s] [内存消耗：4,581.95kb] [文件加载：139]
+[ error ] [8]未定义数组索引: usdt_url[/www/wwwroot/www.1.com/runtime/temp/18444e43fbdd490cc0b6e87cf13557f9.php:102]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:52+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/176?dialog=1
+[运行时间：0.039949s] [吞吐率：25.03req/s] [内存消耗：4,466.22kb] [文件加载：140]
+[ error ] [8]未定义数组下标: 0[/www/wwwroot/www.1.com/thinkphp/library/think/db/Builder.php:120]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:52+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774617321
+[运行时间：0.085207s] [吞吐率：11.74req/s] [内存消耗：4,752.90kb] [文件加载：146]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: account[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:56]
+[ error ] [8]未定义数组索引: user_name[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:57]
+[ error ] [8]未定义数组索引: bank_name[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:58]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.033611s] [吞吐率：29.75req/s] [内存消耗：4,581.88kb] [文件加载：139]
+[ error ] [8]未定义数组索引: usdt_url[/www/wwwroot/www.1.com/runtime/temp/18444e43fbdd490cc0b6e87cf13557f9.php:102]
+---------------------------------------------------------------
+[ 2024-06-19T13:23:54+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080227
+[运行时间：0.044263s] [吞吐率：22.59req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:04+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080228
+[运行时间：0.071978s] [吞吐率：13.89req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:12+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.040076s] [吞吐率：24.95req/s] [内存消耗：4,581.88kb] [文件加载：139]
+[ error ] [8]未定义数组索引: usdt_url[/www/wwwroot/www.1.com/runtime/temp/18444e43fbdd490cc0b6e87cf13557f9.php:102]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:13+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.040852s] [吞吐率：24.48req/s] [内存消耗：4,469.77kb] [文件加载：140]
+[ error ] [8]未定义数组下标: 0[/www/wwwroot/www.1.com/thinkphp/library/think/db/Builder.php:120]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:14+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080229
+[运行时间：0.044749s] [吞吐率：22.35req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.032719s] [吞吐率：30.56req/s] [内存消耗：4,582.03kb] [文件加载：139]
+[ error ] [8]未定义数组索引: usdt_url[/www/wwwroot/www.1.com/runtime/temp/18444e43fbdd490cc0b6e87cf13557f9.php:102]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:18+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.049003s] [吞吐率：20.41req/s] [内存消耗：4,520.84kb] [文件加载：140]
+[ error ] [8]未定义数组下标: 0[/www/wwwroot/www.1.com/thinkphp/library/think/db/Builder.php:120]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:24+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080230
+[运行时间：0.042648s] [吞吐率：23.45req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:30+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.034370s] [吞吐率：29.10req/s] [内存消耗：4,582.00kb] [文件加载：139]
+[ error ] [8]未定义数组索引: usdt_url[/www/wwwroot/www.1.com/runtime/temp/18444e43fbdd490cc0b6e87cf13557f9.php:102]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:31+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.045228s] [吞吐率：22.11req/s] [内存消耗：4,520.84kb] [文件加载：140]
+[ error ] [8]未定义数组下标: 0[/www/wwwroot/www.1.com/thinkphp/library/think/db/Builder.php:120]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:34+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.040395s] [吞吐率：24.76req/s] [内存消耗：4,582.03kb] [文件加载：139]
+[ error ] [8]未定义数组索引: usdt_url[/www/wwwroot/www.1.com/runtime/temp/18444e43fbdd490cc0b6e87cf13557f9.php:102]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:34+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080231
+[运行时间：0.055266s] [吞吐率：18.09req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:36+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.036811s] [吞吐率：27.17req/s] [内存消耗：4,520.84kb] [文件加载：140]
+[ error ] [8]未定义数组下标: 0[/www/wwwroot/www.1.com/thinkphp/library/think/db/Builder.php:120]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:39+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.032604s] [吞吐率：30.67req/s] [内存消耗：4,582.03kb] [文件加载：139]
+[ error ] [8]未定义数组索引: usdt_url[/www/wwwroot/www.1.com/runtime/temp/18444e43fbdd490cc0b6e87cf13557f9.php:102]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:43+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/check/ids/169?dialog=1
+[运行时间：0.046464s] [吞吐率：21.52req/s] [内存消耗：4,517.23kb] [文件加载：140]
+[ error ] [8]未定义数组下标: 0[/www/wwwroot/www.1.com/thinkphp/library/think/db/Builder.php:120]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:43+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774617322
+[运行时间：0.043534s] [吞吐率：22.97req/s] [内存消耗：4,753.02kb] [文件加载：146]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: account[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:56]
+[ error ] [8]未定义数组索引: user_name[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:57]
+[ error ] [8]未定义数组索引: bank_name[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:58]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:44+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718773080232
+[运行时间：0.044529s] [吞吐率：22.46req/s] [内存消耗：4,780.67kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:48+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/downmark/index?addtabs=1&sort=upmark.id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774686134
+[运行时间：0.045411s] [吞吐率：22.02req/s] [内存消耗：4,753.02kb] [文件加载：146]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: account[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:56]
+[ error ] [8]未定义数组索引: user_name[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:57]
+[ error ] [8]未定义数组索引: bank_name[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:58]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+[ error ] [8]未定义数组索引: user_remark[/www/wwwroot/www.1.com/application/admin/controller/Downmark.php:59]
+---------------------------------------------------------------
+[ 2024-06-19T13:24:52+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690236
+[运行时间：0.042409s] [吞吐率：23.58req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:25:02+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690237
+[运行时间：0.047078s] [吞吐率：21.24req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:25:12+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690238
+[运行时间：0.042836s] [吞吐率：23.34req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:25:22+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690239
+[运行时间：0.042328s] [吞吐率：23.63req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:25:32+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690240
+[运行时间：0.043117s] [吞吐率：23.19req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:25:42+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690241
+[运行时间：0.042167s] [吞吐率：23.72req/s] [内存消耗：4,780.68kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:25:48+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.037817s] [吞吐率：26.44req/s] [内存消耗：3,520.45kb] [文件加载：125]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:25:52+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690242
+[运行时间：0.062301s] [吞吐率：16.05req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:26:02+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690243
+[运行时间：0.049912s] [吞吐率：20.04req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:26:12+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690244
+[运行时间：0.042485s] [吞吐率：23.54req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:26:22+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690245
+[运行时间：0.077532s] [吞吐率：12.90req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:27:17+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690246
+[运行时间：0.085558s] [吞吐率：11.69req/s] [内存消耗：4,780.66kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:27:42+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.044541s] [吞吐率：22.45req/s] [内存消耗：3,572.45kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:28:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690247
+[运行时间：0.085016s] [吞吐率：11.76req/s] [内存消耗：4,780.98kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:29:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690248
+[运行时间：0.110766s] [吞吐率：9.03req/s] [内存消耗：4,780.98kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:29:18+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.029703s] [吞吐率：33.67req/s] [内存消耗：3,551.05kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:29:19+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.052981s] [吞吐率：18.87req/s] [内存消耗：3,543.34kb] [文件加载：126]
+[ error ] [8]Undefined variable: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]Undefined index: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:30:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690249
+[运行时间：0.152095s] [吞吐率：6.57req/s] [内存消耗：4,781.06kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:30:16+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.041524s] [吞吐率：24.08req/s] [内存消耗：3,574.02kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:31:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690250
+[运行时间：0.081672s] [吞吐率：12.24req/s] [内存消耗：4,781.13kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:32:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690251
+[运行时间：0.140918s] [吞吐率：7.10req/s] [内存消耗：4,781.13kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:33:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690252
+[运行时间：0.052756s] [吞吐率：18.96req/s] [内存消耗：4,781.13kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:34:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690253
+[运行时间：0.149952s] [吞吐率：6.67req/s] [内存消耗：4,781.13kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:35:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690254
+[运行时间：0.097947s] [吞吐率：10.21req/s] [内存消耗：4,781.13kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:35:21+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/register
+[运行时间：0.029870s] [吞吐率：33.48req/s] [内存消耗：3,549.68kb] [文件加载：127]
+[ error ] [8]未定义数组索引: agent[/www/wwwroot/www.1.com/application/api/controller/Login.php:162]
+---------------------------------------------------------------
+[ 2024-06-19T13:35:31+08:00 ] 65.181.16.124 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.029703s] [吞吐率：33.67req/s] [内存消耗：3,548.81kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:36:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690255
+[运行时间：0.043016s] [吞吐率：23.25req/s] [内存消耗：4,781.13kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:36:47+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/api/login/register
+[运行时间：0.029963s] [吞吐率：33.37req/s] [内存消耗：3,519.16kb] [文件加载：125]
+[ error ] [8]Undefined index: agent[/www/wwwroot/www.1.com/application/api/controller/Login.php:162]
+---------------------------------------------------------------
+[ 2024-06-19T13:37:05+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.029929s] [吞吐率：33.41req/s] [内存消耗：3,518.38kb] [文件加载：125]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:37:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690256
+[运行时间：0.093332s] [吞吐率：10.71req/s] [内存消耗：4,781.13kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:38:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690257
+[运行时间：0.079849s] [吞吐率：12.52req/s] [内存消耗：4,781.13kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:39:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690258
+[运行时间：0.127331s] [吞吐率：7.85req/s] [内存消耗：4,781.14kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:40:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690259
+[运行时间：0.112546s] [吞吐率：8.89req/s] [内存消耗：4,781.14kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:40:47+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.031366s] [吞吐率：31.88req/s] [内存消耗：3,553.87kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T13:41:00+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.038884s] [吞吐率：25.72req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:41:07+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040132s] [吞吐率：24.92req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:41:13+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.055559s] [吞吐率：18.00req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:41:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690260
+[运行时间：0.086172s] [吞吐率：11.60req/s] [内存消耗：4,781.63kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:41:18+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.145382s] [吞吐率：6.88req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:41:23+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039405s] [吞吐率：25.38req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:42:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690261
+[运行时间：0.124317s] [吞吐率：8.04req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:43:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690262
+[运行时间：0.142828s] [吞吐率：7.00req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:44:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690263
+[运行时间：0.077615s] [吞吐率：12.88req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:45:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690264
+[运行时间：0.090196s] [吞吐率：11.09req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:46:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690265
+[运行时间：0.095779s] [吞吐率：10.44req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:46:26+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690266
+[运行时间：0.077949s] [吞吐率：12.83req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:46:32+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690267
+[运行时间：0.054280s] [吞吐率：18.42req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:46:42+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690268
+[运行时间：0.046118s] [吞吐率：21.68req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:46:52+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690269
+[运行时间：0.051077s] [吞吐率：19.58req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:47:02+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690270
+[运行时间：0.059106s] [吞吐率：16.92req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:47:12+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690271
+[运行时间：0.042127s] [吞吐率：23.74req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:47:22+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690272
+[运行时间：0.050758s] [吞吐率：19.70req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:47:32+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690273
+[运行时间：0.042129s] [吞吐率：23.74req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:47:42+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690274
+[运行时间：0.042298s] [吞吐率：23.64req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:48:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690275
+[运行时间：0.114716s] [吞吐率：8.72req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:49:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690276
+[运行时间：0.087521s] [吞吐率：11.43req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:50:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690277
+[运行时间：0.081453s] [吞吐率：12.28req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:51:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690278
+[运行时间：0.084985s] [吞吐率：11.77req/s] [内存消耗：4,782.10kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:52:05+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.054550s] [吞吐率：18.33req/s] [内存消耗：3,576.09kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:52:10+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.053239s] [吞吐率：18.78req/s] [内存消耗：3,576.09kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:52:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690279
+[运行时间：0.105300s] [吞吐率：9.50req/s] [内存消耗：4,782.08kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:52:17+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040824s] [吞吐率：24.50req/s] [内存消耗：3,576.09kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:52:22+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040289s] [吞吐率：24.82req/s] [内存消耗：3,576.09kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:52:28+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040620s] [吞吐率：24.62req/s] [内存消耗：3,576.09kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:52:33+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039376s] [吞吐率：25.40req/s] [内存消耗：3,576.09kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T13:53:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690280
+[运行时间：0.085410s] [吞吐率：11.71req/s] [内存消耗：4,782.17kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:54:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690281
+[运行时间：0.102008s] [吞吐率：9.80req/s] [内存消耗：4,782.17kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:55:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690282
+[运行时间：0.043622s] [吞吐率：22.92req/s] [内存消耗：4,782.17kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:56:19+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690283
+[运行时间：0.078364s] [吞吐率：12.76req/s] [内存消耗：4,782.17kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:57:18+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690284
+[运行时间：0.095272s] [吞吐率：10.50req/s] [内存消耗：4,782.17kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:58:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690285
+[运行时间：0.109615s] [吞吐率：9.12req/s] [内存消耗：4,782.17kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T13:59:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690286
+[运行时间：0.101567s] [吞吐率：9.85req/s] [内存消耗：4,782.17kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:00:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690287
+[运行时间：0.094741s] [吞吐率：10.56req/s] [内存消耗：4,782.17kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:00:18+08:00 ] 65.181.16.120 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.043975s] [吞吐率：22.74req/s] [内存消耗：3,543.06kb] [文件加载：126]
+[ error ] [8]Undefined variable: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]Undefined index: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T14:01:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690288
+[运行时间：0.087214s] [吞吐率：11.47req/s] [内存消耗：4,782.73kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:01:32+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039070s] [吞吐率：25.60req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T14:01:38+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039287s] [吞吐率：25.45req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T14:01:43+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039573s] [吞吐率：25.27req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T14:01:49+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040553s] [吞吐率：24.66req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T14:01:53+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.074391s] [吞吐率：13.44req/s] [内存消耗：3,576.59kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T14:02:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690289
+[运行时间：0.078153s] [吞吐率：12.80req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:03:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690290
+[运行时间：0.100492s] [吞吐率：9.95req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:04:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690291
+[运行时间：0.085171s] [吞吐率：11.74req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:05:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690292
+[运行时间：0.111454s] [吞吐率：8.97req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:06:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690293
+[运行时间：0.117794s] [吞吐率：8.49req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:07:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690294
+[运行时间：0.086910s] [吞吐率：11.51req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:08:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690295
+[运行时间：0.080961s] [吞吐率：12.35req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:09:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690296
+[运行时间：0.078794s] [吞吐率：12.69req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:10:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690297
+[运行时间：0.121948s] [吞吐率：8.20req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:11:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690298
+[运行时间：0.042911s] [吞吐率：23.30req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:12:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690299
+[运行时间：0.081001s] [吞吐率：12.35req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:13:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690300
+[运行时间：0.077976s] [吞吐率：12.82req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:14:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690301
+[运行时间：0.098528s] [吞吐率：10.15req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:15:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690302
+[运行时间：0.110739s] [吞吐率：9.03req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:16:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690303
+[运行时间：0.108461s] [吞吐率：9.22req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:17:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690304
+[运行时间：0.088323s] [吞吐率：11.32req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:18:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690305
+[运行时间：0.081479s] [吞吐率：12.27req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:19:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690306
+[运行时间：0.094258s] [吞吐率：10.61req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:20:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690307
+[运行时间：0.090890s] [吞吐率：11.00req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:21:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690308
+[运行时间：0.114649s] [吞吐率：8.72req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:22:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690309
+[运行时间：0.074140s] [吞吐率：13.49req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:23:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690310
+[运行时间：0.053486s] [吞吐率：18.70req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:24:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690311
+[运行时间：0.080560s] [吞吐率：12.41req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:25:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690312
+[运行时间：0.090320s] [吞吐率：11.07req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:26:21+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690313
+[运行时间：0.107762s] [吞吐率：9.28req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:27:18+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690314
+[运行时间：0.079088s] [吞吐率：12.64req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:28:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690315
+[运行时间：0.078050s] [吞吐率：12.81req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:29:20+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690316
+[运行时间：0.085697s] [吞吐率：11.67req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:30:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690317
+[运行时间：0.086322s] [吞吐率：11.58req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:31:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690318
+[运行时间：0.043819s] [吞吐率：22.82req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:32:20+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690319
+[运行时间：0.082747s] [吞吐率：12.08req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:33:32+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690320
+[运行时间：0.078816s] [吞吐率：12.69req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:34:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690321
+[运行时间：0.043224s] [吞吐率：23.14req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:35:17+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690322
+[运行时间：0.120914s] [吞吐率：8.27req/s] [内存消耗：4,781.98kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:36:18+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690323
+[运行时间：0.161993s] [吞吐率：6.17req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:37:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690324
+[运行时间：0.061248s] [吞吐率：16.33req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:38:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690325
+[运行时间：0.093673s] [吞吐率：10.68req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:39:19+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690326
+[运行时间：0.082697s] [吞吐率：12.09req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:40:26+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690327
+[运行时间：0.105636s] [吞吐率：9.47req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:41:17+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690328
+[运行时间：0.099903s] [吞吐率：10.01req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:42:17+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690329
+[运行时间：0.079429s] [吞吐率：12.59req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:43:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690330
+[运行时间：0.083469s] [吞吐率：11.98req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:44:19+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690331
+[运行时间：0.088131s] [吞吐率：11.35req/s] [内存消耗：4,782.02kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:45:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690332
+[运行时间：0.046152s] [吞吐率：21.67req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T14:46:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690333
+[运行时间：0.083944s] [吞吐率：11.91req/s] [内存消耗：4,782.03kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:28:37+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.038608s] [吞吐率：25.90req/s] [内存消耗：3,552.63kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T15:29:30+08:00 ] 103.177.248.31 GET 43.135.71.18:41927/
+[运行时间：0.044258s] [吞吐率：22.59req/s] [内存消耗：4,037.88kb] [文件加载：130]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+[ error ] [8]未定义数组索引: codename[/www/wwwroot/www.1.com/runtime/temp/9a04d727c93504253d94329ae444bd42.php:931]
+---------------------------------------------------------------
+[ 2024-06-19T15:31:32+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.055674s] [吞吐率：17.96req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:31:37+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039851s] [吞吐率：25.09req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:31:41+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039830s] [吞吐率：25.11req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:31:43+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690334
+[运行时间：0.089034s] [吞吐率：11.23req/s] [内存消耗：4,781.34kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:31:45+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690335
+[运行时间：0.054630s] [吞吐率：18.30req/s] [内存消耗：4,781.34kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:31:53+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690336
+[运行时间：0.051245s] [吞吐率：19.51req/s] [内存消耗：4,781.34kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:32:02+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690337
+[运行时间：0.043329s] [吞吐率：23.08req/s] [内存消耗：4,781.32kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:32:12+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690338
+[运行时间：0.057394s] [吞吐率：17.42req/s] [内存消耗：4,781.32kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:32:22+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690339
+[运行时间：0.076932s] [吞吐率：13.00req/s] [内存消耗：4,781.32kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:32:33+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690340
+[运行时间：0.043149s] [吞吐率：23.18req/s] [内存消耗：4,781.32kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:33:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690341
+[运行时间：0.083526s] [吞吐率：11.97req/s] [内存消耗：4,781.34kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:34:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690342
+[运行时间：0.111915s] [吞吐率：8.94req/s] [内存消耗：4,781.32kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:35:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690343
+[运行时间：0.088215s] [吞吐率：11.34req/s] [内存消耗：4,781.34kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:36:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690344
+[运行时间：0.064795s] [吞吐率：15.43req/s] [内存消耗：4,781.34kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:37:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690345
+[运行时间：0.076453s] [吞吐率：13.08req/s] [内存消耗：4,781.34kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:38:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690346
+[运行时间：0.083252s] [吞吐率：12.01req/s] [内存消耗：4,781.34kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:39:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690347
+[运行时间：0.044150s] [吞吐率：22.65req/s] [内存消耗：4,781.32kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:40:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690348
+[运行时间：0.080946s] [吞吐率：12.35req/s] [内存消耗：4,781.39kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:40:19+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040667s] [吞吐率：24.59req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:40:23+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.047417s] [吞吐率：21.09req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:40:27+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040278s] [吞吐率：24.83req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:40:34+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039627s] [吞吐率：25.24req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:41:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690349
+[运行时间：0.085054s] [吞吐率：11.76req/s] [内存消耗：4,781.07kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:42:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690350
+[运行时间：0.087354s] [吞吐率：11.45req/s] [内存消耗：4,781.07kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:43:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690351
+[运行时间：0.103926s] [吞吐率：9.62req/s] [内存消耗：4,781.07kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:44:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690352
+[运行时间：0.078954s] [吞吐率：12.67req/s] [内存消耗：4,781.07kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:45:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690353
+[运行时间：0.093315s] [吞吐率：10.72req/s] [内存消耗：4,781.07kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:46:19+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690354
+[运行时间：0.082893s] [吞吐率：12.06req/s] [内存消耗：4,781.07kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:47:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690355
+[运行时间：0.102957s] [吞吐率：9.71req/s] [内存消耗：4,781.07kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:48:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690356
+[运行时间：0.101748s] [吞吐率：9.83req/s] [内存消耗：4,781.07kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:48:49+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.043591s] [吞吐率：22.94req/s] [内存消耗：3,573.83kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:48:52+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.053032s] [吞吐率：18.86req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:48:57+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.103634s] [吞吐率：9.65req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:49:05+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.052817s] [吞吐率：18.93req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T15:49:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690357
+[运行时间：0.086112s] [吞吐率：11.61req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:50:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690358
+[运行时间：0.071132s] [吞吐率：14.06req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:51:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690359
+[运行时间：0.092806s] [吞吐率：10.78req/s] [内存消耗：4,780.36kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:52:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690360
+[运行时间：0.084922s] [吞吐率：11.78req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:53:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690361
+[运行时间：0.104501s] [吞吐率：9.57req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:54:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690362
+[运行时间：0.095395s] [吞吐率：10.48req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:55:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690363
+[运行时间：0.107808s] [吞吐率：9.28req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:56:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690364
+[运行时间：0.081566s] [吞吐率：12.26req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:57:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690365
+[运行时间：0.077723s] [吞吐率：12.87req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:58:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690366
+[运行时间：0.093115s] [吞吐率：10.74req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T15:59:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690367
+[运行时间：0.085798s] [吞吐率：11.66req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:00:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690368
+[运行时间：0.079518s] [吞吐率：12.58req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:01:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690369
+[运行时间：0.087828s] [吞吐率：11.39req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:02:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690370
+[运行时间：0.087732s] [吞吐率：11.40req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:02:24+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039372s] [吞吐率：25.40req/s] [内存消耗：3,573.83kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T16:02:28+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.038997s] [吞吐率：25.64req/s] [内存消耗：3,573.77kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T16:03:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690371
+[运行时间：0.096422s] [吞吐率：10.37req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:04:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690372
+[运行时间：0.076043s] [吞吐率：13.15req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:05:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690373
+[运行时间：0.104991s] [吞吐率：9.52req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:06:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690374
+[运行时间：0.106761s] [吞吐率：9.37req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:07:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690375
+[运行时间：0.085164s] [吞吐率：11.74req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:08:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690376
+[运行时间：0.081545s] [吞吐率：12.26req/s] [内存消耗：4,780.36kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:09:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690377
+[运行时间：0.086517s] [吞吐率：11.56req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:10:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690378
+[运行时间：0.057741s] [吞吐率：17.32req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:11:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690379
+[运行时间：0.080831s] [吞吐率：12.37req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:12:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690380
+[运行时间：0.113595s] [吞吐率：8.80req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:13:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690381
+[运行时间：0.082826s] [吞吐率：12.07req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:13:24+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.043247s] [吞吐率：23.12req/s] [内存消耗：3,573.83kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T16:14:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690382
+[运行时间：0.099748s] [吞吐率：10.03req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:15:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690383
+[运行时间：0.104947s] [吞吐率：9.53req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:16:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690384
+[运行时间：0.080956s] [吞吐率：12.35req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:17:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690385
+[运行时间：0.071377s] [吞吐率：14.01req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:18:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690386
+[运行时间：0.082156s] [吞吐率：12.17req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:19:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690387
+[运行时间：0.116217s] [吞吐率：8.60req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:20:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690388
+[运行时间：0.111705s] [吞吐率：8.95req/s] [内存消耗：4,780.36kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:21:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690389
+[运行时间：0.087010s] [吞吐率：11.49req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:22:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690390
+[运行时间：0.103524s] [吞吐率：9.66req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:23:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690391
+[运行时间：0.086526s] [吞吐率：11.56req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:24:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690392
+[运行时间：0.043941s] [吞吐率：22.76req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:24:58+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.047309s] [吞吐率：21.14req/s] [内存消耗：3,573.83kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T16:25:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690393
+[运行时间：0.080664s] [吞吐率：12.40req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:26:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690394
+[运行时间：0.082087s] [吞吐率：12.18req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:27:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690395
+[运行时间：0.085710s] [吞吐率：11.67req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:28:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690396
+[运行时间：0.088270s] [吞吐率：11.33req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:29:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690397
+[运行时间：0.079765s] [吞吐率：12.54req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:30:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690398
+[运行时间：0.078370s] [吞吐率：12.76req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:31:16+08:00 ] 65.181.16.120 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718774690399
+[运行时间：0.095740s] [吞吐率：10.44req/s] [内存消耗：4,780.44kb] [文件加载：147]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:59]
+[ error ] [8]未定义变量: condition[/www/wwwroot/www.1.com/application/admin/controller/Order.php:65]
+---------------------------------------------------------------
+[ 2024-06-19T16:35:03+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.052561s] [吞吐率：19.03req/s] [内存消耗：3,573.83kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T16:45:51+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040742s] [吞吐率：24.54req/s] [内存消耗：3,573.83kb] [文件加载：128]
+[ error ] [8]未定义变量: nowTime[/www/wwwroot/www.1.com/application/api/controller/Goods.php:134]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T16:56:00+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039771s] [吞吐率：25.14req/s] [内存消耗：3,574.27kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:06:45+08:00 ] 43.135.71.18 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039198s] [吞吐率：25.51req/s] [内存消耗：3,574.27kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:22:02+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.031744s] [吞吐率：31.50req/s] [内存消耗：3,552.41kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T17:24:04+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.041484s] [吞吐率：24.11req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:24:10+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.075380s] [吞吐率：13.27req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:24:15+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.056047s] [吞吐率：17.84req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:24:20+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.091615s] [吞吐率：10.92req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:24:25+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.042521s] [吞吐率：23.52req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:24:30+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.042049s] [吞吐率：23.78req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:37:06+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.043555s] [吞吐率：22.96req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:37:11+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.042804s] [吞吐率：23.36req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:37:16+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040583s] [吞吐率：24.64req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:37:20+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.054041s] [吞吐率：18.50req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:37:25+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.042861s] [吞吐率：23.33req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T17:37:29+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.041183s] [吞吐率：24.28req/s] [内存消耗：3,574.81kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T18:10:33+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.029560s] [吞吐率：33.83req/s] [内存消耗：3,551.69kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T18:12:45+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/login/register
+[运行时间：0.030231s] [吞吐率：33.08req/s] [内存消耗：3,549.45kb] [文件加载：127]
+[ error ] [8]未定义数组索引: agent[/www/wwwroot/www.1.com/application/api/controller/Login.php:162]
+---------------------------------------------------------------
+[ 2024-06-19T18:13:02+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/login/login
+[运行时间：0.030313s] [吞吐率：32.99req/s] [内存消耗：3,548.90kb] [文件加载：127]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:78]
+[ error ] [2]ini_set(): A session is active. You cannot change the session module's ini settings at this time[/www/wwwroot/www.1.com/thinkphp/library/think/Session.php:79]
+---------------------------------------------------------------
+[ 2024-06-19T18:15:43+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040231s] [吞吐率：24.86req/s] [内存消耗：3,572.01kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T18:15:48+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.054526s] [吞吐率：18.34req/s] [内存消耗：3,572.01kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T18:15:53+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.039307s] [吞吐率：25.44req/s] [内存消耗：3,572.01kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T18:15:56+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.040028s] [吞吐率：24.98req/s] [内存消耗：3,572.01kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T18:15:59+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.053037s] [吞吐率：18.85req/s] [内存消耗：3,572.07kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]
+---------------------------------------------------------------
+[ 2024-06-19T18:16:03+08:00 ] 39.144.146.244 POST 43.135.71.18:41927/api/goods/microtrade
+[运行时间：0.043947s] [吞吐率：22.75req/s] [内存消耗：3,572.07kb] [文件加载：128]
+[ error ] [8]未定义数组索引: real[/www/wwwroot/www.1.com/application/api/controller/Goods.php:92]

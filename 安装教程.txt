@@ -1,0 +1,24 @@
+服务器环境：nginx1.18+mysql5.7+php7.3
+php安装redis扩展
+
+
+安装步骤：
+	1.安装宝塔面板，添加网站
+	2.上传后端代码，导入数据库
+	3.application文件夹修改database.php文件中数据库信息
+	4.修改网站目录 /public  修改伪静态thinkphp
+
+后台地址：
+	域名/akkq1d1003m1004i1005n.php
+	
+前端uniapp源码
+
+
+余额宝收益  sheel脚本  php /www/wwwroot/www.1.com/cli.php share/shouyi   每天的 08:00 执行一次
+余额宝确认用户份额  shell 脚本 php /www/wwwroot/www.1.com/cli.php share/confirm_share   每天的 07:30 执行一次
+价格获取 shell 脚本  sh /www/wwwroot/www.1.com/data/shell/528btc/stock.sh  每小时的第0分钟开始，每隔 10 分钟执行一次
+1min shell脚本  sh /www/wwwroot/www.1.com/data/shell/528btc/1min.sh  每小时的第0分钟开始，每隔 1 分钟执行一次
+kline shell脚本  sh /www/wwwroot/www.1.com/data/shell/528btc/kline.sh  每小时的第0分钟开始，每隔 5 分钟执行一次
+订单结算 shell脚本  sh /www/wwwroot/www.1.com/data/shell/528btc/settle.sh  每小时的第0分钟开始，每隔 10 分钟执行一次
+
+

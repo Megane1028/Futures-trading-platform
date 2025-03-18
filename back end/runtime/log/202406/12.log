@@ -1,0 +1,25 @@
+---------------------------------------------------------------
+[ 2024-06-12T00:36:02+08:00 ] 46.3.240.71 POST 43.135.71.18:41927/index/home/ajax
+[ error ] [8]未定义数组索引: type
+---------------------------------------------------------------
+[ 2024-06-12T00:36:03+08:00 ] 46.3.240.71 GET 43.135.71.18:41927/index/index/index.html
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+[ error ] [8]未定义数组索引: codename
+---------------------------------------------------------------
+[ 2024-06-12T00:40:49+08:00 ] 46.3.240.71 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718124045484
+[ error ] [8]未定义变量: condition
+[ error ] [8]未定义变量: condition
+---------------------------------------------------------------
+[ 2024-06-12T00:41:00+08:00 ] 46.3.240.71 GET 43.135.71.18:41927/akkq1d1003m1004i1005n.php/order/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1718124045485
+[ error ] [8]未定义变量: condition
+[ error ] [8]未定义变量: condition
