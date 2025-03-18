@@ -1,0 +1,242 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/welcome/welcome",
+			"style": {
+				"navigationBarTitleText": "欢迎使用",
+				"navigationStyle": "custom"
+			}
+		},
+		// {
+		// 	"path": "pages/init/init",
+		// 	"style": {
+		// 		"navigationBarTitleText": "初始页面",
+		// 		"navigationStyle": "custom"
+		// 	}
+		// },
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/registerCheck",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "设置密码",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/product/product",
+			"style": {
+				"navigationBarTitleText": "产品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/money/money",
+			"style": {
+				"navigationBarTitleText": "余额宝",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/set/set",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/account/account",
+			"style": {
+				"navigationBarTitleText": "出款账户",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/account/account-detail",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/money-record/money-record",
+			"style": {
+				"navigationBarTitleText": "资金记录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "订单记录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/withdraw-list/withdraw-list",
+			"style": {
+				"navigationBarTitleText": "出金明细",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/withdraw-list/withdraw-open",
+			"style": {
+				"navigationBarTitleText": "入金明细",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/verify/verify",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/withdraw-money/withdraw-money",
+			"style": {
+				"navigationBarTitleText": "出金",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/message/message",
+			"style": {
+				"navigationBarTitleText": "系统消息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/aboutUs/aboutUs",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/transfer/transfer",
+			"style": {
+				"navigationBarTitleText": "存入金额",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/Particulars/Particulars",
+			"style": {
+				"navigationBarTitleText": "余额宝明细",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/money/detail",
+			"style": {
+				"navigationBarTitleText": "余额宝规则",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/Detail/Detail",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/yinsi/yinsi",
+			"style": {
+				"navigationBarTitleText": "隐私政策",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/yinsi/gy",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/password/password",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/index/detail",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"navigationStyle": "custom"
+			}
+		}
+
+
+	],
+	"tabBar": {
+		"color": "rgb(168, 169, 172)",
+		"selectedColor": "#1150C2",
+		"backgroundColor": "#fff",
+		"borderStyle": "white",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "/static/tabbar/index.png",
+				"selectedIconPath": "/static/tabbar/index_active.png"
+			},
+			{
+				"pagePath": "pages/product/product",
+				"text": "产品",
+				"iconPath": "/static/tabbar/chanpin.png",
+				"selectedIconPath": "/static/tabbar/chanpin_active.png"
+			},
+			{
+				"pagePath": "pages/money/money",
+				"text": "余额宝",
+				"iconPath": "/static/tabbar/yue.png",
+				"selectedIconPath": "/static/tabbar/yue_active.png"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "个人中心",
+				"iconPath": "/static/tabbar/my.png",
+				"selectedIconPath": "/static/tabbar/my_active.png"
+			}
+		]
+
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
